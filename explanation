@@ -114,3 +114,6 @@ The executive chef doesn’t micromanage every sous chef (those nodes we talked 
 Here’s the kicker: the loss function doesn’t exist in a vacuum. It works alongside the **optimizer** (gradient descent) to fine-tune the kitchen. If the loss function says, *“This dish is too salty,”* the optimizer decides how much less salt to use next time. It’s like the chef giving instructions, and the team executing them with precision.  
 
 So yeah, the loss function is the executive chef. It sets the tone, evaluates the work, and ensures that every layer in the network gets the memo: *“Step up your game, or get out of my kitchen.”* Without it, the whole operation would devolve into chaos.
+
+Q6: can you write a very simple python code for a 3 layer neural network
+A6: simple_nn.py
